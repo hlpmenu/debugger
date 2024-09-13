@@ -1,0 +1,4 @@
+gopkg.hlmpn.dev/pkg/funcutils v0.0.0 h1:b1zOtz9yG3nqYgoPmjDVGs/tUOwm5ITjdwYQ28xGOqM=
+gopkg.hlmpn.dev/pkg/funcutils v0.0.0/go.mod h1:5io4GwQT6f71rxmY6E1bccRr0jgSYluuO5GQJISr9ZM=
+gopkg.hlmpn.dev/pkg/go-logger v0.0.3 h1:k4bUKWF101r4TqVO/GoVHKxJUeM9X6hk5K7saLbjxhs=
+gopkg.hlmpn.dev/pkg/go-logger v0.0.3/go.mod h1:ZJioeTyTMAUeyuLvn7uFG2ysbjkbATozQW2jT61QAWM=
